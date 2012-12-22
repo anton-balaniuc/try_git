@@ -9,4 +9,7 @@ class SimpleClass{
 	public function setField($field){
 		$this->field = $field;
 	}
+	public functon getBar(){
+		return $this->bar;
+	}
 }
